@@ -14,7 +14,7 @@ Time series classification on the AReM dataset (feature creation and extraction)
 
 ## How to run
 
-1. Install the dependencies: `pip install numpy pandas matplotlib seaborn scikit-learn`
+1. Install the dependencies: `pip install -r requirements.txt`
 2. Open the notebook and run cells: `jupyter notebook Homework3.ipynb`
 
 The notebook downloads the AReM dataset from the UCI repository automatically. Therefore there is no need to download any data files, but it is necessary to have an Internet connection 
